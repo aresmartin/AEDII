@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "jar/aed2.jar",
+        "jar/aed1.jar"
+    ]
+}
