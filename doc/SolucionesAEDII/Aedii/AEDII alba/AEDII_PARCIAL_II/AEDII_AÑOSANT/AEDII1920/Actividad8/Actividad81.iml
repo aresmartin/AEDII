@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jar" level="project" />
+    <orderEntry type="module" module-name="Actividad84" />
+    <orderEntry type="module" module-name="Actividad86" />
+    <orderEntry type="module" module-name="1 - Yuri1" />
+    <orderEntry type="module" module-name="Actividad83" />
+    <orderEntry type="module" module-name="2a - Quintana2" />
+    <orderEntry type="module" module-name="2a - Quintana" />
+    <orderEntry type="module" module-name="Actividad85" />
+    <orderEntry type="module" module-name="2a - Quintana1" />
+    <orderEntry type="module" module-name="Actividad8" />
+    <orderEntry type="module" module-name="1 - Yuri" />
+    <orderEntry type="module" module-name="Actividad82" />
+    <orderEntry type="module" module-name="1 - Yuri2" />
+  </component>
+</module>

@@ -117,6 +117,6 @@ otro caso. Un árbol binario es completo si todos sus nodos tienen dos descendie
 
   /*4.  Escribe un método que dado un árbol binario A, cree un árbol binario B igual que A pero sin las hojas.  */
  // public static 
-
+public static ArbolBinario<E>
 
 }

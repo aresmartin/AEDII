@@ -33,6 +33,10 @@ public class HashMap<K, V> implements Map<K, V> {
         }
     }
 
+    public HashMap(){
+        this(50);
+    }
+
     /*Transforma una clave en un índice del array.
     Math.abs-->calcula el valor absoluto
     hashCode-->convierte el objeto en un entero*/

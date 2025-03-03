@@ -21,3 +21,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/SolActividad6_ejerc/target/
+/SolActividad6_ejerc/nbproject/
+/MyHashMap/nbproject/private/
+/Actividad6_ejercicioE/nbproject/private/
+/Actividad6_ejercicioE/build/
+/Actividad6_ejercicioE/dist/
+/ImplementacionMap/nbproject/private/
+/ConsumoAPI/nbproject/private/
+/PruebasJavaCurso/Interfaces/nbproject/private/

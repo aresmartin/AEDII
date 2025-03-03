@@ -8,10 +8,6 @@ package actividad2;
 import arbolBinario.ArbolBinario;
 import arbolBinario.EnlazadoArbolBinario;
 
-/**
- *
- * @author Alba
- */
 public class Actividad2 {
 
     /**
